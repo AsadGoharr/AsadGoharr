@@ -21,7 +21,7 @@
 
 - 🎓 **Information Technology (B.Hons)** student at **Ontario Tech University**
 - 💼 Data & Product Research Analyst Intern @ **The Canada List**
-- 🚀 Currently building [**Trace**](https://github.com/AsadGoharr/trace-app) — a full-stack Chrome extension + SaaS platform for applicant tracking
+- 🚀 Currently building [**Trace**](https://github.com/AsadGoharr/Trace) — a full-stack Chrome extension + SaaS platform for applicant tracking
 - 🌐 Passionate about **cloud infrastructure**, **data systems**, and **full-stack development**
 - 📍 Based in **Toronto, ON** 🇨🇦
 - 📬 Reach me at **[LinkedIn](https://www.linkedin.com/in/asad-gohar)**
@@ -103,7 +103,7 @@
 
 <div align="center">
 
-[![Trace](https://github-readme-stats.vercel.app/api/pin/?username=AsadGoharr&repo=trace-app&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e)](https://github.com/AsadGoharr/trace-app)
+[![Trace](https://github-readme-stats.vercel.app/api/pin/?username=AsadGoharr&repo=Trace&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e)](https://github.com/AsadGoharr/Trace)
 
 </div>
 
