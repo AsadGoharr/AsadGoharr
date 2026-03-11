@@ -21,7 +21,7 @@
 
 - 🎓 **Information Technology (B.Hons)** student at **Ontario Tech University**
 - 💼 Data & Product Research Analyst Intern @ **The Canada List**
-- 🚀 Currently building [**Trace**](https://github.com/AsadGoharr/Trace) — a full-stack Chrome extension + SaaS platform for applicant tracking
+- 🚀 Currently building [**Trace**](https://github.com/AsadGoharr/Trace) — a full-stack SaaS platform + Chrome extension that types your text naturally at human-like speed
 - 🌐 Passionate about **cloud infrastructure**, **data systems**, and **full-stack development**
 - 📍 Based in **Toronto, ON** 🇨🇦
 - 📬 Reach me at **[LinkedIn](https://www.linkedin.com/in/asad-gohar)**
@@ -84,7 +84,7 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AsadGoharr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&ring_color=1f6feb" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AsadGoharr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&ring_color=1f6feb&count_private=true" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsadGoharr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
 
 <br/>
@@ -107,7 +107,7 @@
 
 </div>
 
-> **Trace** — A full-stack SaaS platform + Chrome extension for tracking job applications. Built with React, TypeScript, Supabase, Tailwind CSS, Stripe, and deployed on Vercel.
+> **Trace** — A full-stack SaaS platform + Chrome extension that types your text naturally on writing platforms at human-like speed. Built with React, TypeScript, Supabase, Tailwind CSS, Stripe, and deployed on Vercel.
 
 ---
 
