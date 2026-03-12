@@ -5,6 +5,7 @@
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asad-gohar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://asadgohar-portfolio.vercel.app/)
 [![GitHub followers](https://img.shields.io/github/followers/AsadGoharr?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=1f6feb)](https://github.com/AsadGoharr)
 [![GitHub stars](https://img.shields.io/github/stars/AsadGoharr?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=1f6feb)](https://github.com/AsadGoharr)
 ![Profile Views](https://komarev.com/ghpvc/?username=AsadGoharr&style=for-the-badge&color=1f6feb&labelColor=0d1117)
@@ -23,7 +24,8 @@
 - 💼 Data & Product Research Analyst Intern @ **The Canada List**
 - 🚀 Currently building [**Trace**](https://github.com/AsadGoharr/Trace) — a full-stack SaaS platform + Chrome extension that types your text naturally at human-like speed
 - 🌐 Passionate about **cloud infrastructure**, **data systems**, and **full-stack development**
-- 📍 Based in **Toronto, ON** 🇨🇦
+- �️ Check out my [**portfolio**](https://asadgohar-portfolio.vercel.app/) for projects, case studies, and more
+- �📍 Based in **Toronto, ON** 🇨🇦
 - 📬 Reach me at **[LinkedIn](https://www.linkedin.com/in/asad-gohar)**
 
 ---
@@ -99,15 +101,18 @@
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Projects
 
 <div align="center">
 
 [![Trace](https://github-readme-stats.vercel.app/api/pin/?username=AsadGoharr&repo=Trace&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e)](https://github.com/AsadGoharr/Trace)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=AsadGoharr&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e)](https://github.com/AsadGoharr/portfolio)
 
 </div>
 
 > **Trace** — A full-stack SaaS platform + Chrome extension that types your text naturally on writing platforms at human-like speed. Built with React, TypeScript, Supabase, Tailwind CSS, Stripe, and deployed on Vercel.
+
+> **Portfolio** — Personal portfolio site showcasing projects, skills, and experience. Live at [asadgohar-portfolio.vercel.app](https://asadgohar-portfolio.vercel.app/)
 
 ---
 
