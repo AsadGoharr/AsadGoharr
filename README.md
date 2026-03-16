@@ -22,7 +22,7 @@
 
 - 🎓 **Information Technology (B.Hons)** student at **Ontario Tech University**
 - 💼 Data & Product Research Analyst Intern @ **The Canada List**
-- 🚀 Currently building [**Trace**](https://github.com/AsadGoharr/Trace) — a full-stack SaaS platform + Chrome extension that types your text naturally at human-like speed
+- 🚀 Currently building [**Trace**](https://github.com/AsadGoharr/Trace) — a full-stack platform + Chrome extension that types your text naturally at human-like speed
 - 🌐 Passionate about **cloud infrastructure**, **data systems**, and **full-stack development**
 - �️ Check out my [**portfolio**](https://asadgohar-portfolio.vercel.app/) for projects, case studies, and more
 - �📍 Based in **Toronto, ON** 🇨🇦
@@ -110,7 +110,7 @@
 
 </div>
 
-> **Trace** — A full-stack SaaS platform + Chrome extension that types your text naturally on writing platforms at human-like speed. Built with React, TypeScript, Supabase, Tailwind CSS, Stripe, and deployed on Vercel.
+> **Trace** — A full-stack platform + Chrome extension that types your text naturally on writing platforms at human-like speed. Built with React, TypeScript, Supabase, Tailwind CSS, Stripe, and deployed on Vercel.
 
 > **Portfolio** — Personal portfolio site showcasing projects, skills, and experience. Live at [asadgohar-portfolio.vercel.app](https://asadgohar-portfolio.vercel.app/)
 
