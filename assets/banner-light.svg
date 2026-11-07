@@ -1,4 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 300" width="1280" height="300" role="img" aria-label="Asad Gohar. Full-stack developer and IT student in Toronto.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 300" width="1280" height="300" role="img" aria-label="Asad Gohar. IT student, full-stack developer and data and product research analyst intern in Toronto.">
+  <style>
+    .sub{font-family:'SF Mono','Cascadia Mono',Consolas,Menlo,'DejaVu Sans Mono',monospace;font-size:30px;fill:#6b6256}
+    .cur{fill:#e8892b}
+    @keyframes t0{0%{clip-path:inset(0 100% 0 0) fill-box;animation-timing-function:steps(38,end)}10%{clip-path:inset(0 0% 0 0) fill-box;animation-timing-function:linear}21%{clip-path:inset(0 0% 0 0) fill-box;animation-timing-function:steps(38,end)}25%{clip-path:inset(0 100% 0 0) fill-box}100%{clip-path:inset(0 100% 0 0) fill-box}}
+    @keyframes c0{0%{transform:translateX(0px);opacity:1;animation-timing-function:steps(38,end)}10%{transform:translateX(684px);opacity:1;animation-timing-function:linear}21%{transform:translateX(684px);opacity:1;animation-timing-function:steps(38,end)}25%{transform:translateX(0px);opacity:1}25.01%{transform:translateX(0px);opacity:0}100%{transform:translateX(0px);opacity:0}}
+    .t0{animation:t0 20s infinite;clip-path:inset(0 100% 0 0) fill-box}
+    .c0{animation:c0 20s infinite;opacity:0}
+    @keyframes t1{0%{clip-path:inset(0 100% 0 0) fill-box}25%{clip-path:inset(0 100% 0 0) fill-box;animation-timing-function:steps(28,end)}35%{clip-path:inset(0 0% 0 0) fill-box;animation-timing-function:linear}46%{clip-path:inset(0 0% 0 0) fill-box;animation-timing-function:steps(28,end)}50%{clip-path:inset(0 100% 0 0) fill-box}100%{clip-path:inset(0 100% 0 0) fill-box}}
+    @keyframes c1{0%{transform:translateX(0px);opacity:0}24.99%{transform:translateX(0px);opacity:0}25%{transform:translateX(0px);opacity:1;animation-timing-function:steps(28,end)}35%{transform:translateX(504px);opacity:1;animation-timing-function:linear}46%{transform:translateX(504px);opacity:1;animation-timing-function:steps(28,end)}50%{transform:translateX(0px);opacity:1}50.01%{transform:translateX(0px);opacity:0}100%{transform:translateX(0px);opacity:0}}
+    .t1{animation:t1 20s infinite;clip-path:inset(0 100% 0 0) fill-box}
+    .c1{animation:c1 20s infinite;opacity:0}
+    @keyframes t2{0%{clip-path:inset(0 100% 0 0) fill-box}50%{clip-path:inset(0 100% 0 0) fill-box;animation-timing-function:steps(38,end)}60%{clip-path:inset(0 0% 0 0) fill-box;animation-timing-function:linear}71%{clip-path:inset(0 0% 0 0) fill-box;animation-timing-function:steps(38,end)}75%{clip-path:inset(0 100% 0 0) fill-box}100%{clip-path:inset(0 100% 0 0) fill-box}}
+    @keyframes c2{0%{transform:translateX(0px);opacity:0}49.99%{transform:translateX(0px);opacity:0}50%{transform:translateX(0px);opacity:1;animation-timing-function:steps(38,end)}60%{transform:translateX(684px);opacity:1;animation-timing-function:linear}71%{transform:translateX(684px);opacity:1;animation-timing-function:steps(38,end)}75%{transform:translateX(0px);opacity:1}75.01%{transform:translateX(0px);opacity:0}100%{transform:translateX(0px);opacity:0}}
+    .t2{animation:t2 20s infinite;clip-path:inset(0 100% 0 0) fill-box}
+    .c2{animation:c2 20s infinite;opacity:0}
+    @keyframes t3{0%{clip-path:inset(0 100% 0 0) fill-box}75%{clip-path:inset(0 100% 0 0) fill-box;animation-timing-function:steps(26,end)}85%{clip-path:inset(0 0% 0 0) fill-box;animation-timing-function:linear}96%{clip-path:inset(0 0% 0 0) fill-box;animation-timing-function:steps(26,end)}100%{clip-path:inset(0 100% 0 0) fill-box}}
+    @keyframes c3{0%{transform:translateX(0px);opacity:0}74.99%{transform:translateX(0px);opacity:0}75%{transform:translateX(0px);opacity:1;animation-timing-function:steps(26,end)}85%{transform:translateX(468px);opacity:1;animation-timing-function:linear}96%{transform:translateX(468px);opacity:1;animation-timing-function:steps(26,end)}100%{transform:translateX(0px);opacity:1}}
+    .t3{animation:t3 20s infinite;clip-path:inset(0 100% 0 0) fill-box}
+    .c3{animation:c3 20s infinite;opacity:0}
+    @media (prefers-reduced-motion:reduce){.sub,.cur{animation:none!important}.t0{clip-path:none!important}.t1,.t2,.t3,.cur{display:none}}
+  </style>
   <rect width="1280" height="300" fill="#f5eee3"/>
   <g fill="none" stroke="#c9a77a" stroke-width="1" opacity="0.45">
     <path d="M700 330 C 840 120, 1000 260, 1280 40"/>
@@ -10,5 +31,12 @@
   </g>
   <text x="72" y="82" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="3.2" fill="#8a6d4b">FULL-STACK  ·  DATA  ·  TORONTO</text>
   <text x="68" y="190" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="104" font-weight="700" letter-spacing="-3" fill="#26221d">Asad Gohar<tspan fill="#e8892b">.</tspan></text>
-  <text x="72" y="244" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="26" fill="#6b6256">Building Trace, a Chrome extension and web app. IT student at Ontario Tech.</text>
+  <text class="sub t0" x="72" y="244" textLength="684" lengthAdjust="spacingAndGlyphs">IT student at Ontario Tech University.</text>
+  <rect class="cur c0" x="73" y="218" width="3" height="30" rx="1"/>
+  <text class="sub t1" x="72" y="244" textLength="504" lengthAdjust="spacingAndGlyphs">I build full-stack web apps.</text>
+  <rect class="cur c1" x="73" y="218" width="3" height="30" rx="1"/>
+  <text class="sub t2" x="72" y="244" textLength="684" lengthAdjust="spacingAndGlyphs">I work with data and product research.</text>
+  <rect class="cur c2" x="73" y="218" width="3" height="30" rx="1"/>
+  <text class="sub t3" x="72" y="244" textLength="468" lengthAdjust="spacingAndGlyphs">Based in Toronto, Ontario.</text>
+  <rect class="cur c3" x="73" y="218" width="3" height="30" rx="1"/>
 </svg>
