@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 300" width="1280" height="300" role="img" aria-label="Asad Gohar. Full-stack developer and IT student in Toronto.">
+  <rect width="1280" height="300" fill="#141210"/>
+  <g fill="none" stroke="#b8935f" stroke-width="1" opacity="0.4">
+    <path d="M700 330 C 840 120, 1000 260, 1280 40"/>
+    <path d="M720 330 C 860 140, 1020 280, 1280 62"/>
+    <path d="M740 330 C 880 160, 1040 300, 1280 84"/>
+    <path d="M760 330 C 900 180, 1060 320, 1280 106"/>
+    <path d="M780 330 C 920 200, 1080 340, 1280 128"/>
+    <path d="M800 330 C 940 220, 1100 360, 1280 150"/>
+  </g>
+  <text x="72" y="82" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="3.2" fill="#c9a77a">FULL-STACK  ·  DATA  ·  TORONTO</text>
+  <text x="68" y="190" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="104" font-weight="700" letter-spacing="-3" fill="#f5eee3">Asad Gohar<tspan fill="#e8892b">.</tspan></text>
+  <text x="72" y="244" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="26" fill="#b5aa9a">Building Trace, a Chrome extension and web app. IT student at Ontario Tech.</text>
+</svg>
